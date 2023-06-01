@@ -1,0 +1,2 @@
+# KotlinOgrenmeProjesi
+ Kotlin Ogrenme Projesi
